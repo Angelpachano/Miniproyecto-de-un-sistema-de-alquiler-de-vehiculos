@@ -1,0 +1,50 @@
+[
+  {
+    "id_vehiculo": "ABC123",
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "año": 2022,
+    "precio_dia": 50.0,
+    "disponible": true
+  },
+  {
+    "id_vehiculo": "DEF456",
+    "marca": "Honda",
+    "modelo": "Civic",
+    "año": 2021,
+    "precio_dia": 55.0,
+    "disponible": false
+  },
+  {
+    "id_vehiculo": "GHI789",
+    "marca": "Chevrolet",
+    "modelo": "Spark",
+    "año": 2023,
+    "precio_dia": 40.0,
+    "disponible": true
+  },
+  {
+    "id_vehiculo": "JKL012",
+    "marca": "Nissan",
+    "modelo": "Versa",
+    "año": 2022,
+    "precio_dia": 45.0,
+    "disponible": true
+  },
+  {
+    "id_vehiculo": "ANG211",
+    "marca": "Nissan",
+    "modelo": "skalyne",
+    "año": 1999,
+    "precio_dia": 100.0,
+    "disponible": true
+  },
+  {
+    "id_vehiculo": "HMA382",
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "año": 2002,
+    "precio_dia": 50.0,
+    "disponible": true
+  }
+]
