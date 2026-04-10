@@ -20,7 +20,7 @@ def pausar():
     input("\nPresione Enter para continuar...")
 
 def imprimir_mensaje(texto, tipo="info"):
-    """Imprime mensajes con diferentes formatos"""
+    
     if tipo == "error":
         print(f" {texto}")
     elif tipo == "exito":
